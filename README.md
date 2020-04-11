@@ -1,7 +1,7 @@
 # SelfOpenGLMagicScreen
 自我理解模方屏幕与炸弹的解析
 
-写于2020.04.11晚上
+写于2020.04.11晚上21：40
 
       power engineering
       电力工程
