@@ -7,7 +7,7 @@
       电力工程
       
            Ele system 简写Electrical电气
-             -----POWER
+             -----POWER 图像编程的基础上
                |in Default family 默认家庭
                |-----380v 工业用电
                |  |IMAGE 图像等级 220v 家庭用电
